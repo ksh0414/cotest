@@ -1,3 +1,4 @@
+#https://acmicpc.net/problem/1439
 count = [0] * 2
 nums = input()
 pre_num = nums[0]
