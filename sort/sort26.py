@@ -9,7 +9,6 @@ for _ in range(int(input())):
 ans = 0
 try:
     while cards:
-        print(cards)
         card1 = heappop(cards)
         card2 = heappop(cards) 
         ans += card1+card2
